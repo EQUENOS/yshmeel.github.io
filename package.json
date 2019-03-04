@@ -1,0 +1,23 @@
+{
+  "name": "yshmeel-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "css-loader": "^2.1.0",
+    "normalize.css": "^8.0.1",
+    "style-loader": "^0.23.1",
+    "vue": "^2.6.8",
+    "vue-cli": "^2.9.6",
+    "webpack": "^4.29.6"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.2.3"
+  },
+  "scripts": {
+    "build": "webpack -p",
+    "watch": "webpack --watch"
+  },
+  "author": "Yshmeel",
+  "license": "ISC"
+}

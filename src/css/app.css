@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+.centered__block {
+    text-align: center;
+    position: relative;
+    top: 50%;
+    transform: translateY(40%);
+    background: #000;
+    display: block;
+    width: 50%;
+    color: #fff;
+    padding: 20px;
+    margin: 0 auto;
+}
+.centered__header h3 {
+    font-size: 19px;
+    font-weight: bold;
+    font-family: 'Open Sans';
+}
+
+
+.centered__skills, .centered__desc, .centered__contact {
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Open Sans';
+}
+
+.centered__skills ul li, .centered__contact ul li {
+    list-style: none;
+    margin: 0 0 10px 0;
+}
+
+.centered__skills ul, .centered__contact ul {
+    padding: 0;
+}
+.centered__contact ul li a {
+    color: #eee;
+    text-decoration: underline;
+}
+.centered__contact ul li a:hover {
+    text-decoration: none;
+}
