@@ -26,7 +26,7 @@ let app = new Vue({
         titleAnimated: "Ruslan Yusupov",
         backend: "PHP, Node.js",
         frontend: "HTML, CSS, JS, Angular, React, Vue JS",
-        authorDesc: "Just a web-developer, 14 y.o.\
+        authorDesc: "Just a web-developer, 15 y.o.\
         I don't have any idea to do with web design, \
         so just watch a plain site :)",
         contacts: [
